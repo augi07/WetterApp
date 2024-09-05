@@ -68,7 +68,7 @@ addLocationButton.addEventListener('click', async () => {
 });
 
 async function main() {
-    const city = 'Madrid';
+    const city = '';
     const weatherData = await getWeatherData(city);
 
     if (weatherData) {
