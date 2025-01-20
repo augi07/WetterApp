@@ -1,4 +1,4 @@
-# Wetter App
+# WetterApp
 
 Installation des node_modules bitte im Ordner WetterApp. Um Node_modules zu installieren:
 
@@ -7,6 +7,8 @@ npm install
 Anschliessend im Terminal auch:
 
 npm run dev
+
+mit http://localhost:9000 auf die WetterApp Seite gehen
 
 # Übersicht
 So sieht dann die WepApp aus:
